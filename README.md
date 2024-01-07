@@ -55,3 +55,14 @@
     </td>
   </tr>
 </table>
+
+<hr>
+
+<table>
+  <tr>
+    <td>
+      I am a final-year B-Tech. CS student; looking for job opportunities. If you have any Android or Flutter positions, please get in touch. I'll be really glad to hand over my resume & participate in the interview process etc.<br>
+      Thanks!
+    </td>
+  </tr>
+</table>
