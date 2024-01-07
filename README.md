@@ -1,4 +1,4 @@
-# niteshkatiyar
+# Nitesh #Katiyar
 
 
 ### Interests
@@ -11,3 +11,47 @@
 - Web applications.
 - Web scraping.
 - Reverse engineering.
+
+
+### Skillset
+
+<table>
+  <tr>
+    <td>Frameworks & Libraries</td>
+    <td>
+      <strong>Android: </strong><br>
+      Views/XML, Jetpack Compose, Room, Ktor, Retrofit, Navigation, MVVM, coroutines, flows etc.
+      <br>
+      <strong>Flutter: </strong><br>
+      Provider, BLoC, Riverpod, GoRouter, FFI, platform channels, drift, freezed etc.
+      <br>
+      <strong>React.js: </strong><br>
+      React Router, Context API etc.
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td>Programming Languages</td>
+    <td>
+      Kotlin, Java, Dart
+      <br>
+      C++, C
+      <br>
+      JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td>Development Tools</td>
+    <td>
+      Git
+      <br>
+      Visual Studio Code, Visual Studio, Android Studio
+    </td>
+  </tr>
+  <tr>
+    <td>Platforms</td>
+    <td>
+      Windows, GNU/Linux, macOS, Windows Subsystem for Linux
+    </td>
+  </tr>
+</table>
