@@ -1,4 +1,4 @@
-# Nitesh #Katiyar
+# Nitesh Katiyar
 
 
 ### Interests
@@ -35,7 +35,7 @@
     <td>
       Kotlin, Java, Dart
       <br>
-      C++, C
+      C++, Python
       <br>
       JavaScript
     </td>
@@ -45,7 +45,7 @@
     <td>
       Git
       <br>
-      Visual Studio Code, Visual Studio, Android Studio
+      Visual Studio Code, Android Studio
     </td>
   </tr>
   <tr>
